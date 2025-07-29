@@ -13,10 +13,11 @@ The system detects an eyebrow raise and triggers a scroll — a simple yet effec
 
 > Special thanks to **Rohit Patil** for helping in this project 🙌
 
-## 🚀 Demo
-> Coming soon or add a demo GIF/video link here!
+## 📁 Requ
 
-## 📁 Requirements
+https://github.com/user-attachments/assets/609f64b0-ce9e-4116-a406-1f918bdeaa85
+
+irements
 
 Install using:
 ```bash
